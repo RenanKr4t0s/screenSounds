@@ -1,0 +1,14 @@
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/bin/Debug/net8.0/screenSounds
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/bin/Debug/net8.0/screenSounds.deps.json
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/bin/Debug/net8.0/screenSounds.runtimeconfig.json
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/bin/Debug/net8.0/screenSounds.dll
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/bin/Debug/net8.0/screenSounds.pdb
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.GeneratedMSBuildEditorConfig.editorconfig
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.AssemblyInfoInputs.cache
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.AssemblyInfo.cs
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.csproj.CoreCompileInputs.cache
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.dll
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/refint/screenSounds.dll
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.pdb
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/screenSounds.genruntimeconfig.cache
+/home/renan/RdevR/2025Brain/dotNet/screenSounds/obj/Debug/net8.0/ref/screenSounds.dll
