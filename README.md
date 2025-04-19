@@ -56,7 +56,7 @@ Aqui estão alguns dos comandos e métodos que usei no projeto:
 1. Certifique-se de ter o .NET SDK instalado.
 2. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/screen-sounds.git
+   git clone https://github.com/RenanKr4t0s/screenSounds
    ```
 3. Navegue até a pasta do projeto:
    ```bash
